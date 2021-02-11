@@ -1,5 +1,7 @@
-name: Waka Readme
+# This is a basic workflow to help you get started with Actions
+name: Profile Readme Development Stats
 
+# Controls when the action will run.
 on:
   schedule:
     # Runs at 12am IST
