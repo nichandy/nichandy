@@ -35,6 +35,37 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nichandy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+**🐱 My Github Data** 
+
+> 🏆 114 Contributions in the Year 2021
+ > 
+> 📦 439.6 kB Used in Github's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 14 Public Repositories 
+ > 
+> 🔑 9 Private Repositories  
+ > 
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               7 repos             ███████████░░░░░░░░░░░░░░   43.75% 
+C++                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
+C                        2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   6.25% 
+VHDL                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   6.25%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/nichandy/nichandy/main/charts/bar_graph.png) 
+
+
 <!--END_SECTION:waka-->
 
 <!--
