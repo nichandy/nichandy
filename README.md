@@ -1,6 +1,6 @@
-# Hi, I'm Nick 👋
+### Hi, I'm Nick 👋
 
-## About Me
+#### About Me
 
 - 🌱 I’m currently learning [![Gatsby](https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=Gatsby&logoColor=ffffff)](https://www.gatsbyjs.com/) [![Jest Testing](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=Jest&logoColor=ffffff)](https://jestjs.io/) [![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=Terraform&logoColor=ffffff)](https://www.terraform.io/)
 
@@ -10,7 +10,7 @@
 <summary>🔧 Tools & Technology</summary>
 <br>
 
-## Operating System & Tools
+#### Operating System & Tools
 
 [![macOS](https://img.shields.io/badge/macOS-292e33?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/macos/big-sur/)
 [![Windows](https://img.shields.io/badge/Widows-0078D6?style=flat-square&logo=Windows&logoColor=ffffff)](https://www.microsoft.com/en-us/windows/)
@@ -18,7 +18,7 @@
 [![VS Code](https://img.shields.io/badge/IDE-VSCode-%23007ACC?style=flat-square&logo=Visual-studio-code)](https://code.visualstudio.com/)
 [![Intellij IDEA](https://img.shields.io/badge/Intellij-IDEA-000000?style=flat-square&logo=Intellij-idea&logoColor=ffffff)](https://www.jetbrains.com/idea/)
 
-## Technology Stack
+#### Technology Stack
 
 [![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)]()
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=ffffff)]()
@@ -56,7 +56,7 @@
 <summary>📈 GitHub Stats </summary>
 <br>
 
-## Stats
+#### Stats
 
 [![Nick's GitHub stats](https://github-readme-stats.vercel.app/api?username=nichandy&show_icons=true&theme=tokyonight))](https://github.com/anuraghazra/github-readme-stats)
 
