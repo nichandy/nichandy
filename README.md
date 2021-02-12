@@ -2,9 +2,13 @@
 
 ## About Me
 
-- 🌱 I’m currently learning [![Gatsby](https://img.shields.io/badge/Gatsby-663399?style=flat-square&logo=Gatsby&logoColor=ffffff)](https://www.gatsbyjs.com/) [![Jest Testing](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=Jest&logoColor=ffffff)](https://jestjs.io/) [![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=Terraform&logoColor=ffffff)](https://www.terraform.io/)
+- 🌱 I’m currently learning [![Gatsby](https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=Gatsby&logoColor=ffffff)](https://www.gatsbyjs.com/) [![Jest Testing](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=Jest&logoColor=ffffff)](https://jestjs.io/) [![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=Terraform&logoColor=ffffff)](https://www.terraform.io/)
 
-- 📫 How to reach me [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=ffffff)](mailto:nichandy@gmail.com) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=ffffff)](https://twitter.com/Nick_Handy)
+- 📫 How to reach me [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=ffffff)](mailto:nichandy@gmail.com) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=ffffff)](https://twitter.com/Nick_Handy)
+
+<details>
+<summary>🔧 Tools & Technology</summary>
+<br>
 
 ## Operating System & Tools
 
@@ -45,6 +49,12 @@
 [![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=ffffff)](https://sass-lang.com/)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=ffffff)](https://getbootstrap.com/)
 [![Bulma](https://img.shields.io/badge/Bulma-00D1B2?style=flat-square&logo=Bulma&logoColor=ffffff)](https://bulma.io/)
+
+</details>
+
+<details>
+<summary>📈 GitHub Stats </summary>
+<br>
 
 ## Stats
 
@@ -96,6 +106,7 @@ VHDL                     1 repo              █░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
+</details>
 
 <!--
 **nichandy/nichandy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
