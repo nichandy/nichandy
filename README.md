@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning [![Gatsby](shield)](https://www.gatsbyjs.com/) [![Jest Testing](shield)](https://jestjs.io/)[![Terraform](shield)](https://www.terraform.io/)
 
-- 📝 I regulary write articles on [![Blog](https://img.shields.io/badge/-reishin.me-FF4088?style=for-the-badge&logo=Hugo&logoColor=ffffff)](https://reishin.me)
-
 - 📫 How to reach me [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=ffffff)](mailto:nichandy@gmail.com) [![Twitter](https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=ffffff)](https://twitter.com/Nick_Handy)
 
 ## Operating System & Tools
@@ -32,39 +30,38 @@
 
 [![Nick's GitHub stats](https://github-readme-stats.vercel.app/api?username=nichandy&show_icons=true&theme=tokyonight))](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nichandy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nichandy&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-**🐱 My Github Data** 
+**🐱 My Github Data**
 
 > 🏆 114 Contributions in the Year 2021
- > 
-> 📦 439.6 kB Used in Github's Storage 
- > 
+>
+> 📦 439.6 kB Used in Github's Storage
+>
 > 🚫 Not Opted to Hire
- > 
-> 📜 14 Public Repositories 
- > 
-> 🔑 9 Private Repositories  
- > 
-**I Mostly Code in JavaScript** 
+>
+> 📜 14 Public Repositories
+>
+> 🔑 9 Private Repositories
+>
+> **I Mostly Code in JavaScript**
 
 ```text
-JavaScript               7 repos             ███████████░░░░░░░░░░░░░░   43.75% 
-C++                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
-C                        2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
-HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   6.25% 
+JavaScript               7 repos             ███████████░░░░░░░░░░░░░░   43.75%
+C++                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.5%
+C                        2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.5%
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   6.25%
 VHDL                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   6.25%
 
 ```
 
-
 **Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/nichandy/nichandy/main/charts/bar_graph.png) 
-
+![Chart not found](https://raw.githubusercontent.com/nichandy/nichandy/main/charts/bar_graph.png)
 
 <!--END_SECTION:waka-->
 
