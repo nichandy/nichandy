@@ -1,10 +1,12 @@
 ### Hi, I'm Nick 👋
 
+Welcome to my profile! I am a Computer Engineering student who loves working with both Full-Stack applications and embedded systems.
+
 #### About Me
 
 - 🌱 I’m currently learning [![Gatsby](https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=Gatsby&logoColor=ffffff)](https://www.gatsbyjs.com/) [![Jest Testing](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=Jest&logoColor=ffffff)](https://jestjs.io/) [![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=Terraform&logoColor=ffffff)](https://www.terraform.io/)
 
-- 📫 How to reach me [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=ffffff)](mailto:nichandy@gmail.com) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=ffffff)](https://twitter.com/Nick_Handy)
+- 📫 How to reach me [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=ffffff)](mailto:nichandy@gmail.com) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=ffffff)](https://twitter.com/Nick_Handy) [![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=Linkedin&logoColor=ffffff)](https://www.linkedin.com/in/nicholashandy/)
 
 <details>
 <summary>🔧 Tools & Technology</summary>
@@ -18,12 +20,12 @@
 [![VS Code](https://img.shields.io/badge/IDE-VSCode-%23007ACC?style=flat-square&logo=Visual-studio-code)](https://code.visualstudio.com/)
 [![Intellij IDEA](https://img.shields.io/badge/Intellij-IDEA-000000?style=flat-square&logo=Intellij-idea&logoColor=ffffff)](https://www.jetbrains.com/idea/)
 
-#### Technology Stack
+#### Tech Stack
 
 [![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)]()
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=ffffff)]()
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=000000)]()
-[![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=ffffff)]()
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=000000)](https://www.javascript.com)
+[![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=ffffff)](https://www.java.com/en/)
 
 [![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=ffffff)](https://reactjs.org/)
 [![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=ffffff)](https://redux.js.org/)
@@ -43,6 +45,7 @@
 [![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=ffffff)](https://github.com/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)](https://www.docker.com/)
 [![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=ffffff)](https://aws.amazon.com/)
+[![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=ffffff)](https://www.heroku.com/)
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=ffffff)](https://sass-lang.com/)
 [![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=ffffff)](https://sass-lang.com/)
