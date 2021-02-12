@@ -2,12 +2,9 @@
 
 # Hi, I'm Nick 👋
 
-- Enjoy learning new things
-- work on both embedded software as well as full stack applications
-
 ## About Me
 
-- 🌱 I’m currently learning [![Gatsby](shield)](https://www.gatsbyjs.com/) [![Jest Testing](shield)](https://jestjs.io/)[![Terraform](shield)](https://www.terraform.io/)
+- 🌱 I’m currently learning [![Gatsby](https://img.shields.io/badge/-Gatsby-663399?style=flat-square&logo=Gatsby&logoColor=ffffff)](https://www.gatsbyjs.com/) [![Jest Testing](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=Jest&logoColor=ffffff)](https://jestjs.io/)[![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=flat-square&logo=Terraform&logoColor=ffffff)](https://www.terraform.io/)
 
 - 📫 How to reach me [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=ffffff)](mailto:nichandy@gmail.com) [![Twitter](https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=ffffff)](https://twitter.com/Nick_Handy)
 
