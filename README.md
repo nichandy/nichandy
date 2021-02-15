@@ -1,6 +1,6 @@
 ### Hi, I'm Nick 👋
 
-Welcome to my profile! I am a Computer Engineering student who loves working with both full-stack applications and embedded systems.
+Welcome to my profile! I am a Computer Engineering student who loves working with both full-stack web and embedded applications.
 
 #### About Me
 
