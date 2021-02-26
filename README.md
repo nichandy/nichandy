@@ -90,12 +90,6 @@ Sunday       31 commits     ██░░░░░░░░░░░░░░░�
 
 ```
 
-📊 **This Week I Spent My Time On**
-
-```text
-
-```
-
 **I Mostly Code in JavaScript**
 
 ```text
