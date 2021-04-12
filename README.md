@@ -24,6 +24,7 @@ Welcome to my profile! I am a Computer Engineering student who loves working wit
 
 [![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)]()
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=ffffff)]()
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=ffffff)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=000000)](https://www.javascript.com)
 [![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=ffffff)](https://www.java.com/en/)
 
@@ -66,46 +67,46 @@ Welcome to my profile! I am a Computer Engineering student who loves working wit
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nichandy&layout=compact&langs_count=6&hide=scss,dockerfile,shell)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
+
+**I'm an Early 🐤**
 
 ```text
-🌞 Morning    22 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.34% 
-🌆 Daytime    163 commits    ███████████░░░░░░░░░░░░░░   46.97% 
-🌃 Evening    124 commits    █████████░░░░░░░░░░░░░░░░   35.73% 
+🌞 Morning    22 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.34%
+🌆 Daytime    163 commits    ███████████░░░░░░░░░░░░░░   46.97%
+🌃 Evening    124 commits    █████████░░░░░░░░░░░░░░░░   35.73%
 🌙 Night      38 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.95%
 
 ```
-📅 **I'm Most Productive on Tuesday** 
+
+📅 **I'm Most Productive on Tuesday**
 
 ```text
-Monday       64 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.44% 
-Tuesday      68 commits     █████░░░░░░░░░░░░░░░░░░░░   19.6% 
-Wednesday    50 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.41% 
-Thursday     52 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.99% 
-Friday       42 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.1% 
-Saturday     39 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.24% 
+Monday       64 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.44%
+Tuesday      68 commits     █████░░░░░░░░░░░░░░░░░░░░   19.6%
+Wednesday    50 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.41%
+Thursday     52 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.99%
+Friday       42 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.1%
+Saturday     39 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.24%
 Sunday       32 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.22%
 
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
+
 ```
 
-**I Mostly Code in JavaScript** 
+**I Mostly Code in JavaScript**
 
 ```text
-JavaScript               8 repos             ███████████░░░░░░░░░░░░░░   47.06% 
-C++                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76% 
-C                        2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76% 
-HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.88% 
+JavaScript               8 repos             ███████████░░░░░░░░░░░░░░   47.06%
+C++                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76%
+C                        2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76%
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.88%
 VHDL                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.88%
 
 ```
-
-
 
 <!--END_SECTION:waka-->
 </details>
