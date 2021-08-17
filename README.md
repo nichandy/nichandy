@@ -1,6 +1,6 @@
 ### Hi, I'm Nick 👋
 
-Welcome to my profile! I am a Computer Engineering student who loves working with both full-stack web and embedded applications.
+Welcome to my profile! I am a Computer Engineer working with data in order to help others.
 
 #### About Me
 
@@ -22,9 +22,9 @@ Welcome to my profile! I am a Computer Engineering student who loves working wit
 
 #### Tech Stack
 
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=ffffff)]()
 [![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)]()
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=ffffff)]()
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=ffffff)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=000000)](https://www.javascript.com)
 [![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=ffffff)](https://www.java.com/en/)
 
